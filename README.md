@@ -46,10 +46,5 @@ Options:
   -h, --help                 display help for command
 ```
 
-# More Information
-- **Websites**
-    - www.decentology.com/dappstarter
-- **Videos**
-    - https://www.youtube.com/channel/UCZfZ-YyNb2J_g4bith1OLaw
-- **Social**
-    - [Twitter @Decentology](https://twitter.com/decentology)
+`If you have any question with this project, feel free to reach out.` 
+ 
